@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Acara TV</string>
+    <string name="score_list">Skor : </string>
+    <string name="genre_list">Genre : </string>
+    <string name="content_desc">Klik aku, aku mempunyai deskripsi</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="title_tv_mv">Title Mv Tv</string>
+    <string name="release_tv_mv">Release Mv Tv</string>
+    <string name="score_tv_mv">Score Mv Tv</string>
+    <string name="genres_tv_mv">Genres Mv Tv</string>
+    <string name="status_tv_mv">Status Mv Tv</string>
+    <string name="runtime_tv_mv">Runtime Mv Tv</string>
+    <string name="original_language_tv_mv">Original Language Mv Tv</string>
+    <string name="overview_tv_mv">Overview Mv Tv</string>
+    <string name="sub_release">Tanggal Rilis</string>
+    <string name="sub_score">Skor</string>
+    <string name="sub_genres">Genre</string>
+    <string name="sub_status">Status</string>
+    <string name="sub_runtime">Durasi</string>
+    <string name="sub_original_language">Bahasa Pengucapan</string>
+    <string name="sub_overview">Ringkasan Singkat</string>
+
+    <string-array name="data_title_tv">
+        <item>Arrow</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Marvel\’s\ Iron Fist</item>
+        <item>Naruto Shippuden</item>
+        <item>NCIS</item>
+        <item>Supergirl</item>
+        <item>The Simpsons</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="data_release_tv">
+        <item>Oktober 10, 2012</item>
+        <item>Februari 26, 1986</item>
+        <item>Oktober 12, 2009</item>
+        <item>Januari 31, 1999</item>
+        <item>Maret 17, 2017</item>
+        <item>Februari 15, 2007</item>
+        <item>September 23, 2003</item>
+        <item>Oktober 26, 2015</item>
+        <item>Desember 17, 1989</item>
+        <item>Oktober 31, 2010</item>
+    </string-array>
+
+    <string-array name="data_score_tv">
+        <item>58/100</item>
+        <item>71/100</item>
+        <item>65/100</item>
+        <item>65/100</item>
+        <item>61/100</item>
+        <item>76/100</item>
+        <item>69/100</item>
+        <item>60/100</item>
+        <item>72/100</item>
+        <item>73/100</item>
+    </string-array>
+
+    <string-array name="data_status_tv">
+        <item>Berlanjut</item>
+        <item>Berakhir</item>
+        <item>Berakhir</item>
+        <item>Berlanjut</item>
+        <item>Dibatalkan</item>
+        <item>Berakhir</item>
+        <item>Berlanjut</item>
+        <item>Berlanjut</item>
+        <item>Berlanjut</item>
+        <item>Berlanjut</item>
+    </string-array>
+
+    <string-array name="data_runtime_tv">
+        <item>42 menit</item>
+        <item>25 menit</item>
+        <item>25 menit</item>
+        <item>22 menit</item>
+        <item>55 menit</item>
+        <item>25 menit</item>
+        <item>45 menit</item>
+        <item>42 menit</item>
+        <item>22 menit</item>
+        <item>42 menit, 60 menit, 45 menit</item>
+    </string-array>
+
+    <string-array name="data_genres_tv">
+        <item>Kejahatan, Drama, Misteri, Aksi dan Petualangan</item>
+        <item>Komedi, Sci-fi dan Fantasi, Animasi, Aksi dan Petualangan</item>
+        <item>Aksi dan Petualangan, Animasi, Komedi, Sci-fi dan Fantasi</item>
+        <item>Animasi, Komedi</item>
+        <item>Aksi dan Petualangan, Drama, Sci-fi dan Fantasi</item>
+        <item>Animasi, Komedi, Drama</item>
+        <item>Aksi dan Petualangan, Kejahatan, Drama</item>
+        <item>Aksi, Petualangan, Drama, Cerita Fiksi</item>
+        <item>Animasi, Komedi</item>
+        <item>Aksi dan Petualangan, Drama, Sci-fi dan Fantasi</item>
+    </string-array>
+
+    <string-array name="data_ori_language_tv">
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Jepang</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+    </string-array>
+
+    <string-array name="data_overview_tv">
+        <item>Miliarder Playboy yang manja Oliver Queen hilang dan diduga tewas ketika kapal pesiar hilang di laut. Dia kembali lima tahun kemudian seorang pria berubah, bertekad untuk membersihkan kota sebagai berkerudung main hakim sendiri bersenjata dengan busur.</item>
+        <item>Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan yang akan mengubah hidup Goku selamanya. Lihat bagaimana Goku bertemu teman-teman seumur hidupnya Bulma, Yamcha, Krillin, Master Roshi dan banyak lagi.</item>
+        <item>Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi kota Harujion, dia bertemu Natsu, seorang pemuda yang sakit dengan mudah oleh semua jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia adalah anggota dari salah satu Guild penyihir paling terkenal di dunia: Fairy Tail.</item>
+        <item>Seri animasi animasi Freakin \'S\weet yang sakit, terpelintir, dan salah, menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+        <item>Wajah Danny Rand 15 tahun setelah diduga tewas. Sekarang, dengan kekuatan dari Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.</item>
+        <item>Dari pembunuhan dan Spionase terhadap terorisme dan kapal selam yang dicuri, tim agen khusus menyelidiki kejahatan apapun yang memiliki rusak dari bukti yang terhubung dengan personil Angkatan Laut dan Korps Marinir, terlepas dari pangkat atau posisi.</item>
+        <item>Kara zor-El yang berusia dua puluh empat tahun, yang diambil oleh keluarga Danvers ketika dia berusia 13 setelah dikirim menjauh dari Krypton, harus belajar untuk merangkul kekuatannya setelah sebelumnya menyembunyikannya. Para Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkan mereka selama bencana yang tak terduga, menetapkan dia dalam perjalanannya kepahlawanan.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+        <item>Deputi Sheriff Rick Grimes terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia menetapkan untuk menemukan keluarganya dan bertemu banyak korban lainnya di sepanjang jalan.</item>
+    </string-array>
+
+    <array name="data_poster_tv">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_walking_dead</item>
+    </array>
+
+    <string-array name="data_title_mv">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Mortal Engines</item>
+        <item>Ralph Breaks the Internet</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>T-34</item>
+    </string-array>
+
+    <string-array name="data_release_mv">
+        <item>Oktober 3, 2018</item>
+        <item>Desember 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>Oktober 24, 2018</item>
+        <item>November 14, 2018</item>
+        <item>November 27, 2018</item>
+        <item>November 20, 2018</item>
+        <item>November 21, 2018</item>
+        <item>Desember 6, 2018</item>
+        <item>Desember 27, 2018</item>
+    </string-array>
+
+    <string-array name="data_score_mv">
+        <item>75/100</item>
+        <item>68/100</item>
+        <item>83/100</item>
+        <item>80/100</item>
+        <item>69/100</item>
+        <item>61/100</item>
+        <item>72/100</item>
+        <item>58/100</item>
+        <item>84/100</item>
+        <item>55/100</item>
+    </string-array>
+
+    <string-array name="data_status_mv">
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+    </string-array>
+
+    <string-array name="data_runtime_mv">
+        <item>2 jam 16 menit</item>
+        <item>2 jam 24 menit</item>
+        <item>2 jam 29 menit</item>
+        <item>2 jam 15 menit</item>
+        <item>2 jam 14 menit</item>
+        <item>2 jam 9 menit</item>
+        <item>1 jam 52 menit</item>
+        <item>1 jam 56 menit</item>
+        <item>1 jam 57 menit</item>
+        <item>2 jam 19 menit</item>
+    </string-array>
+
+    <string-array name="data_genres_mv">
+        <item>Drama, Percintaan, Musik</item>
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Petualangan, Aksi, Cerita Fiksi</item>
+        <item>Drama, Musik</item>
+        <item>Petualangan, Fantasi, Keluarga</item>
+        <item>Petualangan, Fantasi</item>
+        <item>Keluarga, Animasi, Komedi, Petualangan</item>
+        <item>Petualangan, Aksi, Cerita Seru</item>
+        <item>Aksi, Petualangan, Animasi, Cerita Fiksi, Komedi</item>
+        <item>Kejahatan, Aksi</item>
+    </string-array>
+
+    <string-array name="data_ori_language_mv">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Rusia</item>
+    </string-array>
+
+    <string-array name="data_overview_mv">
+        <item>Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan. Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.</item>
+        <item>Pernah menjadi rumah bagi peradaban paling maju di bumi, Atlantis sekarang adalah sebuah kerajaan bawah laut yang dikuasai oleh raja ORM yang haus kekuasaan. Dengan tentara yang luas di pembuangan, ORM berencana untuk menaklukkan sisa orang Samudera dan kemudian dunia permukaan. Berdiri di jalan adalah Arthur Curry, ORM setengah manusia, setengah-Atlantean saudara dan pewaris sejati takhta.</item>
+        <item>Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik oleh badai ketika mereka membentuk Rock \'\ n \'\ roll band Queen di 1970. Lagu hit menjadi klasik instan. Ketika gaya hidup Merkurius semakin liar mulai spiral di luar kendali, Ratu segera menghadapi tantangan terbesar belum-menemukan cara untuk menjaga band bersama-sama di tengah keberhasilan dan kelebihan.</item>
+        <item>Gellert Grindelwald telah melarikan diri dari penjara dan telah mulai mengumpulkan pengikut ke tujuannya meninggikan penyihir di atas semua makhluk non-magis. Satu-satunya yang bisa menghentikannya adalah penyihir yang pernah disebutnya sebagai sahabat terdekatnya, Albus Dumbledore. Namun, Dumbledore akan perlu mencari bantuan dari penyihir yang telah menggagalkan Grindelwald sebelumnya, mantan muridnya, Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis-garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman-teman dan keluarga sejati, di dunia sihir yang semakin terbagi.</item>
+        <item>Banyak ribuan tahun di masa depan, kota bumi berkeliaran di dunia pada roda besar, melahap satu sama lain dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar, London tua, Tom Natsworthy memiliki pertemuan tak terduga dengan seorang wanita muda misterius dari daerah kritis yang akan mengubah perjalanan hidupnya selamanya.</item>
+        <item>Video game pria jahat Ralph dan sesama misfit Vanellope von Schweetz harus mengambil risiko semuanya dengan bepergian ke World Wide Web untuk mencari bagian pengganti untuk menyimpan permainan video Vanellope, \"Sugar Rush."\ Dalam perjalanan di atas kepala mereka, Ralph dan Vanellope bergantung pada warga Internet para netizens untuk membantu menavigasi jalan mereka, termasuk seorang pengusaha bernama ya, yang merupakan kepala algoritma dan hati dan jiwa dari situs pembuat tren BuzzzTube.</item>
+        <item>Seorang Crusader yang mengeras perang dan komandan Moor-nya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa SMA dan menjadi Spider-Man. Ketika Wilson \"Kingpin"\ Fisk menggunakan Super Collider, orang lain dari seluruh Spider-ayat yang diangkut ke dimensi ini.</item>
+        <item>Pada 1944, sekelompok tentara Rusia yang berani berhasil melarikan diri dari penawanan Jerman dalam sebuah tank T-34 legendaris yang setengah hancur. Mereka adalah saat-saat yang tak terlupakan keberanian, pertempuran sengit, bisa dipecahkan cinta, dan legendaris mukjizat.</item>
+    </string-array>
+
+    <array name="data_poster_mv">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_mortal_engines</item>
+        <item>@drawable/poster_ralph</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_t34</item>
+    </array>
+</resources>
